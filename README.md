@@ -13,7 +13,7 @@
 
 **Lucas Dias da Silva** · Analista de TI · Instrutor em Tecnologia · Vitória da Conquista, BA 🇧🇷
 
-**Sistemas de Informação – IFBA** · Automação · IA · IoT · Dados
+**Bsc. Sistemas de Informação – IFBA** · Automação · IA · IoT · Dados
 
 ---
 
@@ -82,7 +82,8 @@ projeto = {
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### Produtividade & Infra
+### Ferramentas & Plataformas
+![Claude Code](https://img.shields.io/badge/Claude_Code-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
