@@ -63,61 +63,71 @@ projeto = {
 
 ## 🔧 Stack
 
-### Linguagens de Programação
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### Back-End & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
-![Passenger WSGI](https://img.shields.io/badge/Passenger%20WSGI-533A7B?style=for-the-badge&logo=apache&logoColor=white)
-
-### Front-End
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-FF6F61?style=for-the-badge&logo=qdrant&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-
-### Cloud & Serverless
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![Amazon SQS](https://img.shields.io/badge/Amazon_SQS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-
-### DevOps & CI/CD
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-
-### IA & Machine Learning
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
-
-### Automação & Workflows
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-### Dados & BI
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### Hardware / IoT
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+<table style="border-collapse:separate;border-spacing:12px;width:100%;">
+  <tr>
+    <td width="50%" style="border:1px solid #223047;border-radius:16px;padding:16px;vertical-align:top;background:#0b1220;">
+      <strong>Linguagens de Programação</strong><br><br>
+      <img src="https://img.shields.io/badge/Python-2f5d8a?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/JavaScript-2f5d8a?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"><br>
+      <img src="https://img.shields.io/badge/TypeScript-2f5d8a?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/PHP-2f5d8a?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+    </td>
+    <td width="50%" style="border:1px solid #223047;border-radius:16px;padding:16px;vertical-align:top;background:#0b1220;">
+      <strong>Back-End & APIs</strong><br><br>
+      <img src="https://img.shields.io/badge/Node.js-1f3d3a?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/FastAPI-1f3d3a?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"><br>
+      <img src="https://img.shields.io/badge/Flask-1f3d3a?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+    </td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #223047;border-radius:16px;padding:16px;vertical-align:top;background:#0b1220;">
+      <strong>Front-End</strong><br><br>
+      <img src="https://img.shields.io/badge/React-1e3a56?style=for-the-badge&logo=react&logoColor=white" alt="React">
+      <img src="https://img.shields.io/badge/Next.js-1e3a56?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+    </td>
+    <td style="border:1px solid #223047;border-radius:16px;padding:16px;vertical-align:top;background:#0b1220;">
+      <strong>Banco de Dados & Cloud</strong><br><br>
+      <img src="https://img.shields.io/badge/PostgreSQL-244c65?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/MySQL-244c65?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"><br>
+      <img src="https://img.shields.io/badge/Qdrant-244c65?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant">
+      <img src="https://img.shields.io/badge/MongoDB-244c65?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+      <img src="https://img.shields.io/badge/Firebase-244c65?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"><br>
+      <img src="https://img.shields.io/badge/AWS-244c65?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+      <img src="https://img.shields.io/badge/AWS_Lambda-244c65?style=for-the-badge&logo=awslambda&logoColor=white" alt="AWS Lambda">
+    </td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #223047;border-radius:16px;padding:16px;vertical-align:top;background:#0b1220;">
+      <strong>DevOps & IA</strong><br><br>
+      <img src="https://img.shields.io/badge/Docker-3a6a8f?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/GitHub_Actions-3a6a8f?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"><br>
+      <img src="https://img.shields.io/badge/Git-3a6a8f?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/OpenAI-3a6a8f?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"><br>
+      <img src="https://img.shields.io/badge/PyTorch-3a6a8f?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+      <img src="https://img.shields.io/badge/LangChain-3a6a8f?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
+    </td>
+    <td style="border:1px solid #223047;border-radius:16px;padding:16px;vertical-align:top;background:#0b1220;">
+      <strong>IA, Automação & BI</strong><br><br>
+      <img src="https://img.shields.io/badge/Gemini_AI-3a6a8f?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini AI">
+      <img src="https://img.shields.io/badge/Claude_Code-3a6a8f?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"><br>
+      <img src="https://img.shields.io/badge/n8n-3a6a8f?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+      <img src="https://img.shields.io/badge/Google_Sheets-3a6a8f?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Google Sheets"><br>
+      <img src="https://img.shields.io/badge/Power_BI-4a5b1a?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI">
+      <img src="https://img.shields.io/badge/Excel-4a5b1a?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="border:1px solid #223047;border-radius:16px;padding:16px;vertical-align:top;background:#0b1220;">
+      <strong>Hardware / IoT e infra atual</strong><br><br>
+      <img src="https://img.shields.io/badge/Raspberry_Pi-5a2b36?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi">
+      <img src="https://img.shields.io/badge/Arduino-5a2b36?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"><br>
+      <img src="https://img.shields.io/badge/cPanel-1f3d3a?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel">
+      <img src="https://img.shields.io/badge/Passenger%20WSGI-1f3d3a?style=for-the-badge&logo=apache&logoColor=white" alt="Passenger WSGI"><br>
+      <img src="https://img.shields.io/badge/Totvs_Protheus-1f3d3a?style=for-the-badge&logoColor=white" alt="Totvs Protheus">
+      <img src="https://img.shields.io/badge/Google%20Sheets%20API-1f3d3a?style=for-the-badge&logo=google&logoColor=white" alt="Google Sheets API">
+    </td>
+  </tr>
+</table>
 
 ---
 
