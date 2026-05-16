@@ -63,8 +63,6 @@ projeto = {
 
 ## 🔧 Stack
 
-<div align="center">
-
 ### Linguagens de Programação
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -105,8 +103,6 @@ projeto = {
 
 ### Automação & Workflows
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-</div>
 
 ---
 
