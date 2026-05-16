@@ -13,7 +13,7 @@
 
 **Lucas Dias da Silva** · Analista de TI · Instrutor em Tecnologia · Vitória da Conquista, BA 🇧🇷
 
-**Sistemas de Informação – IFBA ** · Automação · IA · IoT · Dados
+**Sistemas de Informação – IFBA** · Automação · IA · IoT · Dados
 
 ---
 
