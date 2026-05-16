@@ -13,7 +13,7 @@
 
 **Lucas Dias da Silva** · Analista de TI · Instrutor em Tecnologia · Vitória da Conquista, BA 🇧🇷
 
-**Sistemas de Informação – IFBA (8º semestre)** · Automação · IA · IoT · Dados
+**Sistemas de Informação – IFBA ** · Automação · IA · IoT · Dados
 
 ---
 
@@ -21,8 +21,8 @@
 
 ---
 
-[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaScripts&show_icons=true&theme=tokyonight&hide_border=true&locale=pt&include_all_commits=true&count_private=true)](https://github.com/LucaScripts)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaScripts&layout=compact&theme=tokyonight&hide_border=true&locale=pt)](https://github.com/LucaScripts)
+[![Lucas's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=LucaScripts&show_icons=true&theme=tokyonight&hide_border=true&locale=pt&include_all_commits=true&count_private=true)](https://github.com/LucaScripts)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LucaScripts&layout=compact&theme=tokyonight&hide_border=true&locale=pt)](https://github.com/LucaScripts)
 
 ---
 
