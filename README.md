@@ -26,7 +26,7 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LucaScripts&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/LucaScripts)
+[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=LucaScripts&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/LucaScripts)
 
 </div>
 
