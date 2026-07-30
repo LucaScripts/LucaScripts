@@ -1,0 +1,52 @@
+name: Gerar Assets do Perfil
+
+on:
+  schedule:
+    - cron: '0 3 * * *'   # todo dia às 00:00 (Brasília, UTC-3)
+  workflow_dispatch:        # permite rodar manualmente
+
+jobs:
+  generate-trophy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Gerar trophy.svg
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: LucaScripts
+          output_path: assets/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: tokyonight
+          no-frame: true
+          no-bg: true
+          margin-w: 8
+          column: 7
+
+      - name: Commit trophy.svg
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: atualiza trophy.svg"
+          file_pattern: assets/trophy.svg
+
+  generate-streak:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Gerar streak-stats.svg
+        uses: DenverCoder1/github-readme-streak-stats-action@v1
+        with:
+          user_id: LucaScripts
+          theme: tokyonight-duo
+          hide_border: true
+          date_format: "j M[ Y]"
+          locale: pt_BR
+          type: svg
+          output: assets/streak-stats.svg
+
+      - name: Commit streak-stats.svg
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: atualiza streak-stats.svg"
+          file_pattern: assets/streak-stats.svg
