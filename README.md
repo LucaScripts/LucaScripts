@@ -19,9 +19,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LucaScripts&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR)](https://git.io/streak-stats)
 
----
-
-[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=LucaScripts&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/LucaScripts)
 
 </div>
 
