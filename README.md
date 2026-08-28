@@ -21,11 +21,6 @@
 
 ---
 
-[![Lucas's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=LucaScripts&show_icons=true&theme=tokyonight&hide_border=true&locale=pt&include_all_commits=true&count_private=true)](https://github.com/LucaScripts)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LucaScripts&layout=compact&theme=tokyonight&hide_border=true&locale=pt)](https://github.com/LucaScripts)
-
----
-
 [![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=LucaScripts&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/LucaScripts)
 
 </div>
